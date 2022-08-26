@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Robert 👋
+### Frontend Developer and Freelancer!
+___
 
-<!--
-**RJasonClarke/RJasonClarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on expanding my knowledge of frontend technologies.
 
-Here are some ideas to get you started:
+🌱 I’m currently sharpening my skills in Javascript, HTML, CSS, React, and DSA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📝 I believe in the importance of learning new things every day.
+
+👨‍💻 Motivated to learn, grow, and excel.
+
+💬 Please feel free to reach out if you have any suggestions or just want to connect.
+
+😄 You can show some ❤️ by starring some of the repositories.
+
+💬 Ask me about anything that you want to learn!
 -->
